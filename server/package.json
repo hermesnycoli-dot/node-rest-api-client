@@ -1,4 +1,7 @@
 {
     "name": "node-rest-api-client",
-    "type": "module"
+    "type": "module", 
+    "scripts": {
+        "dev": "node --watch ./src/server"
+    }
 }
